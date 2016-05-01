@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1398294407 source:c:\users\allen\desktop\cs10_code\project_3b\fraction\client.cpp
+	<iostream>
+	"fraction.h"
+
+1398296464 c:\users\allen\desktop\cs10_code\project_3b\fraction\fraction.h
+
+1398298686 source:c:\users\allen\desktop\cs10_code\project_3b\fraction\fraction.cpp
+	<iostream>
+	"fraction.h"
+
+1398265181 source:c:\users\allen\desktop\cs10_code\project_3b\fraction\client_0.cpp
+	<iostream>
+	"fraction.h"
+
