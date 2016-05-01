@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1395614754 source:c:\users\allen\desktop\cs10_code\project_1\project1_rocket\rocket.cpp
+	<iostream>
+	<iomanip>
+
+1395719939 source:c:\users\allen\desktop\cs10_code\project_1\project1_rocket\rocket1.cpp
+	<iostream>
+
