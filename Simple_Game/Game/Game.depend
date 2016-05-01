@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1416846397 source:c:\users\allen\desktop\cs 11\assignment9\game\client_9.1.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	"human.h"
+
+1416846245 c:\users\allen\desktop\cs 11\assignment9\game\human.h
+	"creature.h"
+	<iostream>
+	<string>
+
+1416846643 c:\users\allen\desktop\cs 11\assignment9\game\creature.h
+	<iostream>
+	<string>
+
+1416846650 source:c:\users\allen\desktop\cs 11\assignment9\game\creature.cpp
+	<iostream>
+	<cstdlib>
+	"creature.h"
+

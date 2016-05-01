@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1417210311 source:c:\users\allen\desktop\cs 11\assignment9\game_9.2\balrog.cpp
+	"demon.h"
+	"balrog.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1417205919 c:\users\allen\desktop\cs 11\assignment9\game_9.2\demon.h
+	"creature.h"
+	<iostream>
+	<string>
+
+1417211039 c:\users\allen\desktop\cs 11\assignment9\game_9.2\creature.h
+	<iostream>
+	<string>
+
+1417207286 c:\users\allen\desktop\cs 11\assignment9\game_9.2\balrog.h
+	"demon.h"
+	<iostream>
+	<string>
+
+1417215356 source:c:\users\allen\desktop\cs 11\assignment9\game_9.2\client_9.2.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	"human.h"
+	"elf.h"
+	"cyberdemon.h"
+	"balrog.h"
+
+1417210341 c:\users\allen\desktop\cs 11\assignment9\game_9.2\human.h
+	"creature.h"
+	<iostream>
+	<string>
+
+1417204810 c:\users\allen\desktop\cs 11\assignment9\game_9.2\elf.h
+	"creature.h"
+	<iostream>
+	<string>
+
+1417210349 c:\users\allen\desktop\cs 11\assignment9\game_9.2\cyberdemon.h
+	"demon.h"
+	<iostream>
+	<string>
+
+1417210829 source:c:\users\allen\desktop\cs 11\assignment9\game_9.2\creature.cpp
+	<iostream>
+	<cstdlib>
+	"creature.h"
+
+1417210263 source:c:\users\allen\desktop\cs 11\assignment9\game_9.2\cyberdemon.cpp
+	"demon.h"
+	"cyberdemon.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1417210247 source:c:\users\allen\desktop\cs 11\assignment9\game_9.2\demon.cpp
+	"creature.h"
+	"demon.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1417210238 source:c:\users\allen\desktop\cs 11\assignment9\game_9.2\elf.cpp
+	"creature.h"
+	"elf.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1417210893 source:c:\users\allen\desktop\cs 11\assignment9\game_9.2\human.cpp
+	"creature.h"
+	"human.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
