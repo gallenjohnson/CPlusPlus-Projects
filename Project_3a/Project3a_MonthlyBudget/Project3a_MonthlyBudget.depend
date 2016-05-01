@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1397249951 source:c:\users\allen\desktop\cs10_code\project_3a\project3a_monthlybudget\monthlybudget.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
