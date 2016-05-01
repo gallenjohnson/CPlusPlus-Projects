@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1412720766 source:c:\users\allen\desktop\cs 11\assignment3\recipe\recipeclient.cpp
+	"recipe.h"
+	"fraction.h"
+	"myString.h"
+	"measure.h"
+	"ingredient.h"
+	<cassert>
+	<fstream>
+	<iostream>
+
+1412057356 c:\users\allen\desktop\cs 11\assignment3\recipe\recipe.h
+	"fraction.h"
+	"myString.h"
+	"measure.h"
+	"ingredient.h"
+	<iostream>
+
+1411535924 c:\users\allen\desktop\cs 11\assignment3\recipe\fraction.h
+	<iostream>
+
+1411535849 c:\users\allen\desktop\cs 11\assignment3\recipe\mystring.h
+	<iostream>
+
+1412003832 c:\users\allen\desktop\cs 11\assignment3\recipe\measure.h
+	<iostream>
+	"fraction.h"
+	"myString.h"
+
+1412003807 c:\users\allen\desktop\cs 11\assignment3\recipe\ingredient.h
+	"fraction.h"
+	"myString.h"
+	"measure.h"
+	<iostream>
+
+1411535969 source:c:\users\allen\desktop\cs 11\assignment3\recipe\fraction.cpp
+	"fraction.h"
+	<iostream>
+	<cmath>
+	<cassert>
+
+1411883930 source:c:\users\allen\desktop\cs 11\assignment3\recipe\mystring.cpp
+	"myString.h"
+	<iostream>
+	<cassert>
+	<cctype>
+	<cstring>
+
+1412717933 source:c:\users\allen\desktop\cs 11\assignment3\recipe\measure.cpp
+	<iostream>
+	<cassert>
+	<cctype>
+	"measure.h"
+	"fraction.h"
+	"myString.h"
+
+1411949639 source:c:\users\allen\desktop\cs 11\assignment3\recipe\ingredient.cpp
+	"ingredient.h"
+	"fraction.h"
+	"myString.h"
+	"measure.h"
+	<iostream>
+
+1412055129 source:c:\users\allen\desktop\cs 11\assignment3\recipe\recipe.cpp
+	"fraction.h"
+	"myString.h"
+	"measure.h"
+	"ingredient.h"
+	"recipe.h"
+	<iostream>
+	<cassert>
+	<cctype>
+	<cstring>
+
