@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1399677602 source:c:\users\allen\desktop\cs10_code\project_5\game_of_life\gameoflife.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
